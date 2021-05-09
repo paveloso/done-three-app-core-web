@@ -1,0 +1,7 @@
+config.properties
+application.properties
+*.iml
+.idea/
+*/target
+/done3app-web/target/
+/done3app-api/target/
